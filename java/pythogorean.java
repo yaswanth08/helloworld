@@ -35,7 +35,7 @@ class Pythogorean
 
 	System.out.println("The value you have entered did not satisfy Pythogorean theorem");
 
-	
+	/*u r a bitch manikanta*/
 	}
 
 }
